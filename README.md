@@ -9,7 +9,7 @@ SO THAT I can create a strong password that provides greater security
 
 ## Summary Photo
 
-Click here: ![img](../assets/screenshot.PNG) to see the screenshot.
+Click here: ![img](./assets/screenshot.PNG) to see the screenshot.
 
 ## Usage
 
